@@ -10,8 +10,11 @@ Prerequisites
 
 Python 3.8+
 You can download Python from python.org.
+
 Installation
+
 Clone the repository:
+https://github.com/doyen9/capgoods.git
 
 
 
